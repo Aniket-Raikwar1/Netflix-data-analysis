@@ -1,6 +1,6 @@
 ## Netflix data analysis
 
-##Project Title : 
+## Project Title : 
 
 Analysing Netflix Streaming data for insights. 
 
@@ -22,7 +22,9 @@ Analyse the data and generate insight that could help Neflix in deciding which t
 11. Listed_in : Genre.
 12. Description : The summery description. 
 
-Questions we are going answers with this data : 
+## Questions we are going answers with this data : 
+
+
 1. How has the number of movies released per year changed over the last 20 - 30 years ? 
 2. Comparison of TV shows vs. Movies. 
 3. What is the best time to launch a Tv show ? 
@@ -35,7 +37,8 @@ How to Install and run project on your machin :
 Download the project Ipynb file from GitHub. To run the file go to Jupyter.org or use Google Colab. 
 
 
-Tools and Language : 
+## Tools and Language : 
+
 Language :  Python. 
 Jupyter notebook platform for analysis seamless data analysis experience
 Used Data analysis libraries such as - Numpy, Pandas, Matplotlib and Seaborn.
