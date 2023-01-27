@@ -1,10 +1,14 @@
-# Netflix data analysis
+## Netflix data analysis
 
-Project Title : Analysing Netflix Streaming data for insights. 
+##Project Title : 
 
-Project Description : Analyse the data and generate insight that could help Neflix in deciding which type of show / Movies to produce and how they can grow the business in different countries. 
+Analysing Netflix Streaming data for insights. 
 
-Data contains following attributes columms : 
+## Project Description : 
+
+Analyse the data and generate insight that could help Neflix in deciding which type of show / Movies to produce and how they can grow the business in different countries. 
+
+## Data contains following attributes columms : 
 1. Show_id : Unique ID for every Movies / Show.
 2. Type : Identifier - Data is about a Movie or TV show.
 3. Title : Title of the Movie / Tv show.
@@ -37,4 +41,4 @@ Jupyter notebook platform for analysis seamless data analysis experience
 Used Data analysis libraries such as - Numpy, Pandas, Matplotlib and Seaborn.
 
 
-What to talk about the project, Please connect with me on [LinkedIn](https://www.linkedin.com/in/aniket-raikwar/) and [E-mail](aniketrtm114@gmai.com)
+Want to talk about the project, Please connect with me on [LinkedIn](https://www.linkedin.com/in/aniket-raikwar/) and [E-mail](aniketrtm114@gmai.com)
