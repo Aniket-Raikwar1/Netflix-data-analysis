@@ -44,4 +44,4 @@ Jupyter notebook platform for analysis seamless data analysis experience
 Used Data analysis libraries such as - Numpy, Pandas, Matplotlib and Seaborn.
 
 
-## Want to talk about the project, Please connect with me on [LinkedIn](https://www.linkedin.com/in/aniket-raikwar/) and [E-mail](aniketrtm114@gmai.com)
+## Want to talk about the project, Please connect with me on [LinkedIn](https://www.linkedin.com/in/aniket-raikwar/) and aniketrtm114@gmai.com
